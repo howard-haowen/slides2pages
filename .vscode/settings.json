@@ -19,6 +19,12 @@
     "https://raw.githubusercontent.com/rnd195/marp-community-themes/live/themes/rose-pine.css",
     "https://raw.githubusercontent.com/rnd195/marp-community-themes/live/themes/rose-pine-dawn.css",
     "https://raw.githubusercontent.com/rnd195/marp-community-themes/live/themes/rose-pine-moon.css",
-    ""
+    "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_template.scss",
+    "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_blue.scss",
+    "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_brown.scss",
+    "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_dark.scss",
+    "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_green.scss",
+    "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_purple.scss",
+    "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_red.scss",
   ]
 }
