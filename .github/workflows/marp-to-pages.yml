@@ -78,7 +78,7 @@ jobs:
           git checkout gh-pages
 
           # List all directories in the pr-preview folder
-          previews=$(ls pr-preview
+          previews=$(ls pr-preview)
 
           # Find the most recent directory (assuming they are timestamped or lexicographically ordered)
           latest_preview=$(echo "$previews" | sort | tail -n 1)
