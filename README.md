@@ -104,6 +104,7 @@ This is a good time to learn more about Marp. Here's some resources:
 - [CSS Themes](https://marpit.marp.app/theme-css)
 - [Directives](https://marpit.marp.app/directives)
 - [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+- [Marp Online Editor](https://demo.marpeditor.com/)
 
 ## Example Sites
 
