@@ -48,14 +48,11 @@ style: |
 
 ![](https://marklodato.github.io/visual-git-guide/conventions.svg.png)
 
----
+<!-- More pictures
+- Final.doc from PhD comics: https://learning.nceas.ucsb.edu/2019-11-RRCourse/images/phd_comics_final.png
 
-<!-- _header: "" -->
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://learning.nceas.ucsb.edu/2019-11-RRCourse/images/phd_comics_final.png" width="45%" />
-  <img src="https://learning.nceas.ucsb.edu/2019-11-RRCourse/images/version-graph.png" width="45%" />
-</div>
+- Git graph with tags and branches: https://learning.nceas.ucsb.edu/2019-11-RRCourse/images/version-graph.png
+ -->
 
 ---
 

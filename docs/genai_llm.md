@@ -16,19 +16,7 @@ style: |
 
 # <!-- fit --> 生成式 AI 與大語言模型
 
-<style scoped>
-.left-align {
-  text-align: left;
-  font-size: 40px;
-  color: white;
-}
-</style>
-
-<div class="left-align">
-<br>
-<br>
-江豪文
-</div>
+[江豪文](https://howard-haowen.github.io/)
 
 ![bg](https://www.unite.ai/wp-content/uploads/2024/01/Generative-AI-to-AGI.png)
 
@@ -42,27 +30,12 @@ style: |
 -   生成式 AI
 -   大語言模型
 
-##
+## 01 生成式AI
 
-<style scoped>
-.right-align {
-  position: absolute;
-  top: 200px;
-  left: 50px;
-  font-size: 60px;
-  color: white;
-}
+<!-- _footer: "" -->
+<!-- _color: white -->
 
-.right-align span {
-  background-color: red;
-}
-</style>
-
-<div class="right-align">
-  <span>01 生成式AI</span>
-</div>
-
-![bg](https://voiceoc.com/wp-content/uploads/2024/04/1697380698315.png)
+![bg](https://media.licdn.com/dms/image/D4E12AQHmt2HavWsIoQ/article-cover_image-shrink_720_1280/0/1697380698315?e=2147483647&v=beta&t=nxMyxvVygfMhi3TSsv_8UCsSQykVDA77ps2rjAA4_ko)
 
 ### <!-- fit --> 兩大 AI 類型
 
@@ -101,27 +74,10 @@ style: |
 
 ![h:450](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70b2dc14-043d-4c4e-ab92-8a124e3ee1f7_1200x900.png)
 
-##
+## 02 大語言模型
 
 <!-- _footer: "" -->
-
-<style scoped>
-.right-align {
-  position: absolute;
-  top: 200px;
-  left: 50px;
-  font-size: 60px;
-  color: white;
-}
-
-.right-align span {
-  background-color: red;
-}
-</style>
-
-<div class="right-align">
-  <span>02 大語言模型</span>
-</div>
+<!-- _color: white -->
 
 ![bg](https://media.licdn.com/dms/image/D4D12AQEMLCtqvbBAKQ/article-cover_image-shrink_720_1280/0/1707217131110?e=2147483647&v=beta&t=ef1xjQ2h-zTAFU5RJ-3Tqx0rDRpC883UrCFhuPWA55o)
 
@@ -217,26 +173,8 @@ RAG（Retrieval-Augmented Generation，檢索增強生成）是一種新的技�
 
 ## RAG 架構
 
+<!-- _footer: "" -->
 <!-- _color: red -->
-
-<style scoped>
-.right-align {
-  position: absolute;
-  top: 550px;
-  left: 400px;
-  color: white;
-  font-size: 40px;
-}
-
-.right-align span {
-  background-color: red;
-}
-</style>
-
-<div class="right-align">
-  <span>建置階段:A~D</span>
-  <span>問答階段: 1~5</span>
-</div>
 
 ![bg fit](https://gradientflow.com/wp-content/uploads/2023/10/newsletter87-RAG-simple.png)
 
