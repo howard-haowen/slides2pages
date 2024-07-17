@@ -564,25 +564,10 @@ HEAD is now at e1772a9 Added git snapshot to git slides
 
 ---
 
-# `reset` vs `revert`
+###  `reset` vs `revert`
 
-<div class="row">
-  <div class="column">
-    <img src="https://images.datacamp.com/image/upload/v1671196209/Diagram_of_Before_and_After_Git_Reset_9af0fcc3e8.png" alt="Git Reset" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://images.datacamp.com/image/upload/v1671196209/Diagram_of_Revert_Before_and_After_4b427cf59b.png" alt="Git Revert" style="width:100%">
-  </div>
-</div>
-
-<style scoped>
-.row {
-  display: flex;
-}
-.column {
-  flex: 50%;
-}
-</style>
+![bg fit](https://images.datacamp.com/image/upload/v1671196209/Diagram_of_Before_and_After_Git_Reset_9af0fcc3e8.png)
+![bg fit](https://images.datacamp.com/image/upload/v1671196209/Diagram_of_Revert_Before_and_After_4b427cf59b.png)
 
 ---
 
