@@ -161,10 +161,10 @@ Date: Sep 12th, 2024
 
 ## Why is machine learning powerful?
 
-> True power of ML/DL
->
-> -   humans only need to provide input and output
-> -   computers are in charge of figuring out the right process, which is called a **model**
+The true power of ML/DL lies in the fact that
+
+-   humans only need to provide input and output
+-   computers are in charge of figuring out the right process, which is called a **model**
 
 ![h:200](https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/494205_1_En_7_Fig1_HTML-thumbnail_webp-600x300.webp)
 
@@ -309,17 +309,17 @@ Date: Sep 12th, 2024
 
 ---
 
-## What is prompt engineering?
+<!-- _header: "" -->
+<!-- _footer: "" -->
 
-> Prompt Engineering is the process of designing, testing, and optimizing prompts that are used to instruct AI models to perform specific tasks.
-
-![bg right 90%](https://serpstat.com/files/img/96/1684829587.5118.webp)
+![bg contain](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2023/01/prompt-engineering.png)
 
 ---
 
-![bg fit](https://lh5.googleusercontent.com/jxgG-AxD6QMQfYhNsHQghgl4jNRPY6yrH6gZn83bQBrkfwMn1bG_BbiPr6dwYqbw71u928vMTYBsrzUMit6Sc5TjViTjmpVSCgBPr3NoRbZUMeAaJbJVUjZUUCbczuZ5CGKac5VamvpcysFAI-1pu4A)
+<!-- _header: "" -->
+<!-- _footer: "" -->
 
-[>> source](https://lh5.googleusercontent.com/jxgG-AxD6QMQfYhNsHQghgl4jNRPY6yrH6gZn83bQBrkfwMn1bG_BbiPr6dwYqbw71u928vMTYBsrzUMit6Sc5TjViTjmpVSCgBPr3NoRbZUMeAaJbJVUjZUUCbczuZ5CGKac5VamvpcysFAI-1pu4A)
+![bg fit](https://lh5.googleusercontent.com/jxgG-AxD6QMQfYhNsHQghgl4jNRPY6yrH6gZn83bQBrkfwMn1bG_BbiPr6dwYqbw71u928vMTYBsrzUMit6Sc5TjViTjmpVSCgBPr3NoRbZUMeAaJbJVUjZUUCbczuZ5CGKac5VamvpcysFAI-1pu4A)
 
 ---
 
@@ -345,7 +345,7 @@ Date: Sep 12th, 2024
 
 ---
 
-## Elements of a good prompt
+-   Elements of a good prompt
 
 ![h:500](https://pbs.twimg.com/media/GAwsIY6XEAAkBPW.jpg)
 
@@ -363,9 +363,10 @@ Date: Sep 12th, 2024
 
 ---
 
-> Start with Python 🐍 if you want to try programming.
+Start with Python 🐍 if you want to try programming.
 
-![bg right:45% fit](https://cf-assets2.tenlong.com.tw/ig/027/229/466/9781119907947.jpg?1704156714)
+![bg right:65% fit](https://cdn.kobo.com/book-images/82012983-1b89-46f7-9986-00404214f15f/1200/1200/False/python-for-kids-for-dummies.jpg)
+![bg fit](https://cf-assets2.tenlong.com.tw/ig/027/229/466/9781119907947.jpg?1704156714)
 
 ---
 
@@ -378,6 +379,21 @@ Date: Sep 12th, 2024
 ## GenAI creates engineering paradigm shift.
 
 ![h:500](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*oS8mcrCLMt57X6X6xMP8Iw.png)
+
+---
+
+## GenAI's impact on future jobs
+
+[>> source](https://www.cogentinfo.com/resources/genai-how-will-it-impact-future-jobs-and-workflows)
+![bg right:65% fit](https://cdn.prod.website-files.com/651e8862627bb76b91f2a4e6/65ddd5d3c620763dfddc1317_growth%2030%20jan-02.jpg)
+
+---
+
+<!-- _header: "" -->
+<!-- _footer: "" -->
+<!-- _paginate: "" -->
+
+![bg contain](https://fourweekmba.com/wp-content/uploads/2019/03/ai-business-models.png)
 
 ---
 
