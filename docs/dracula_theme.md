@@ -6,7 +6,6 @@ footer: Gisolfi
 header: Dracula
 paginate: true
 marp: true
-size: 4K
 ---
 
 # Dracula
@@ -15,7 +14,7 @@ A Dark theme for [Marp](https://marp.app)
 
 Explore the many features of Marp in style!
 
-*Daniel Nicolas Gisolfi*
+_Daniel Nicolas Gisolfi_
 
 <style scoped>
 h1 {
@@ -29,13 +28,13 @@ h1 {
 
 # Screen portrayals
 
-| Year | Title | Actor |
-| ----------- | ----------- | ----------- |
-| 1970 | Jonathan | Paul Albert Krumm |
-| 1995 | Monster Mash | Anthony Crivello|
-| 2004 | Blade: Trinity | Dominic Purcell|
-| 2008 | Supernatural | Todd Stashwick|
-| 2020 | Dracula | Claes Bang|
+| Year | Title          | Actor             |
+| ---- | -------------- | ----------------- |
+| 1970 | Jonathan       | Paul Albert Krumm |
+| 1995 | Monster Mash   | Anthony Crivello  |
+| 2004 | Blade: Trinity | Dominic Purcell   |
+| 2008 | Supernatural   | Todd Stashwick    |
+| 2020 | Dracula        | Claes Bang        |
 
 <style scoped>
 table {
@@ -62,16 +61,15 @@ h1 {
 
 # Bats - About
 
-- Small
+-   Small
 
-- Fast
+-   Fast
 
-- Mammals
+-   Mammals
 
-- Scientific name: Chiroptera
+-   Scientific name: Chiroptera
 
 ![bg right](./img/igam-ogam-unsplash.jpg)
-
 
 ---
 
@@ -92,5 +90,3 @@ class Bat:
     def speed(self):
         return 10 - self.age
 ```
-
-
