@@ -19,7 +19,7 @@ style: |
 ![bg left](https://picsum.photos/720?image=29)
 
 程式碼管控與多人協作
-[江豪文](https://howard-haowen.github.io/) + Bing Chat
+[江豪文](https://bit.ly/4fL1hX0) + Bing Chat
 
 ---
 
@@ -564,7 +564,7 @@ HEAD is now at e1772a9 Added git snapshot to git slides
 
 ---
 
-###  `reset` vs `revert`
+### `reset` vs `revert`
 
 ![bg fit](https://images.datacamp.com/image/upload/v1671196209/Diagram_of_Before_and_After_Git_Reset_9af0fcc3e8.png)
 ![bg fit](https://images.datacamp.com/image/upload/v1671196209/Diagram_of_Revert_Before_and_After_4b427cf59b.png)

@@ -16,7 +16,7 @@ style: |
 
 # <!-- fit --> 生成式 AI 與大語言模型
 
-[江豪文](https://howard-haowen.github.io/)
+[江豪文](https://bit.ly/4fL1hX0)
 
 ![bg](https://www.unite.ai/wp-content/uploads/2024/01/Generative-AI-to-AGI.png)
 
@@ -30,7 +30,7 @@ style: |
 -   生成式 AI
 -   大語言模型
 
-## 01 生成式AI
+## 01 生成式 AI
 
 <!-- _footer: "" -->
 <!-- _color: white -->
