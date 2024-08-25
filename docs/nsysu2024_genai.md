@@ -102,7 +102,10 @@ Date: Sep 12th, 2024
 
 ---
 
-![](https://assets-global.website-files.com/6344c9cef89d6f2270a38908/644c1fe29b0887661966d9cd_d0051e24.png)
+<!-- _header: "" -->
+<!-- _footer: "" -->
+
+![bg contain](https://assets-global.website-files.com/6344c9cef89d6f2270a38908/644c1fe29b0887661966d9cd_d0051e24.png)
 
 ---
 
@@ -110,7 +113,7 @@ Date: Sep 12th, 2024
 
 -   The goal of ML/DL is to search for a _function_ that takes some input and then produces some output in a way that humans would normally do.
 
-![h:250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9L2Who0uL21le4IhuRZ78UdmWb3Vq3KFrTl5FguXzDFCpLSoRJqPL4vNL-LX1M7OLU8&usqp=CAU)
+![h:250 center](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9L2Who0uL21le4IhuRZ78UdmWb3Vq3KFrTl5FguXzDFCpLSoRJqPL4vNL-LX1M7OLU8&usqp=CAU)
 
 ---
 
@@ -166,7 +169,7 @@ The true power of ML/DL lies in the fact that
 -   humans only need to provide input and output
 -   computers are in charge of figuring out the right process, which is called a **model**
 
-![h:200](https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/494205_1_En_7_Fig1_HTML-thumbnail_webp-600x300.webp)
+![h:200 center](https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/494205_1_En_7_Fig1_HTML-thumbnail_webp-600x300.webp)
 
 ---
 
@@ -255,7 +258,7 @@ The true power of ML/DL lies in the fact that
 
 -   A language model predicts the next word based on conditional probability.
 
-![h:300](https://static.wixstatic.com/media/3eee0b_2ba9521e928e4a1ab8328fbc34170542~mv2.png)
+![h:300 center](https://static.wixstatic.com/media/3eee0b_2ba9521e928e4a1ab8328fbc34170542~mv2.png)
 
 ---
 
@@ -266,6 +269,9 @@ The true power of ML/DL lies in the fact that
 ![bg right fit](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*FQOc2s9cdQSVqAJJ.png)
 
 ---
+
+<!-- _header: "" -->
+<!-- _footer: "" -->
 
 ![bg fit](<https://www.investopedia.com/thmb/ulGrKT5WnVclGMOgQQVe65OtmeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/large-language-model-7563532-final-9e350e9fa02d4685887aa061af7a2de2.png>)
 
@@ -291,7 +297,7 @@ The true power of ML/DL lies in the fact that
 
 ## Prompt on the terminal
 
-![h:500](https://res.cloudinary.com/practicaldev/image/fetch/s--WoTmwWJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z7v1jxp2pr7z0d3lqqxv.png)
+![h:500 center](https://res.cloudinary.com/practicaldev/image/fetch/s--WoTmwWJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z7v1jxp2pr7z0d3lqqxv.png)
 
 ---
 
@@ -305,7 +311,7 @@ The true power of ML/DL lies in the fact that
 
 ## What makes a good prompt?
 
-![h:500](https://assets-global.website-files.com/651599053c664397a48c84cd/652555f8ade90301ee2a8bc5_BOOKS.webp)
+![h:500 center](https://assets-global.website-files.com/651599053c664397a48c84cd/652555f8ade90301ee2a8bc5_BOOKS.webp)
 
 ---
 
@@ -325,7 +331,7 @@ The true power of ML/DL lies in the fact that
 
 ## Prompt engineers are in high demand.
 
-![h:500](https://media.licdn.com/dms/image/D5612AQGb_dVDFI5GoA/article-cover_image-shrink_720_1280/0/1684218148948?e=2147483647&v=beta&t=2h2bBdCmPcwcJA5fxVbYoqhbclYK7RtYt9oR48XpIWE)
+![h:500 center](https://media.licdn.com/dms/image/D5612AQGb_dVDFI5GoA/article-cover_image-shrink_720_1280/0/1684218148948?e=2147483647&v=beta&t=2h2bBdCmPcwcJA5fxVbYoqhbclYK7RtYt9oR48XpIWE)
 
 ---
 
@@ -347,19 +353,19 @@ The true power of ML/DL lies in the fact that
 
 -   Elements of a good prompt
 
-![h:500](https://pbs.twimg.com/media/GAwsIY6XEAAkBPW.jpg)
+![h:500 center](https://pbs.twimg.com/media/GAwsIY6XEAAkBPW.jpg)
 
 ---
 
 ## Prompt engineering skill - critical thinking
 
-![h:500](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*h_O3KFchZl_335WCMCr54A.png)
+![h:500 center](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*h_O3KFchZl_335WCMCr54A.png)
 
 ---
 
 ## Prompt engineering skill - coding
 
-![h:500](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*C5zRyXyvcgvsn_aoFBR7sg.png)
+![h:500 center](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*C5zRyXyvcgvsn_aoFBR7sg.png)
 
 ---
 
@@ -370,7 +376,7 @@ Start with Python 🐍 if you want to try programming.
 
 ---
 
-![h:500](https://i.imgur.com/DuUmNoP.png)
+![h:500 center](https://i.imgur.com/DuUmNoP.png)
 
 [>> source](https://santiagof.medium.com/english-is-the-most-powerful-programing-language-even-for-data-science-introduction-to-prompt-998406a499be)
 
@@ -378,7 +384,7 @@ Start with Python 🐍 if you want to try programming.
 
 ## GenAI creates engineering paradigm shift.
 
-![h:500](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*oS8mcrCLMt57X6X6xMP8Iw.png)
+![h:500 center](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*oS8mcrCLMt57X6X6xMP8Iw.png)
 
 ---
 
