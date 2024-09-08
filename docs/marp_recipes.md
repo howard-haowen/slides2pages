@@ -1,15 +1,16 @@
 ---
 marp: true
+math: katex
 theme: default
 class: invert
 size: 16:9
 style: |
-  img {background-color: transparent!important;}
-  a:hover, a:active, a:focus {text-decoration: none;}
-  header a {color: #ffffff !important; font-size: 30px;}
-  footer {color: #148ec8;}
+    img {background-color: transparent!important;}
+    a:hover, a:active, a:focus {text-decoration: none;}
+    header a {color: #ffffff !important; font-size: 30px;}
+    footer {color: #148ec8;}
 header: '[&#9671;](#1 " ")'
-footer: 'Slides by [Chris](http://www.christopherhahne.de)'
+footer: "Slides by [Chris](http://www.christopherhahne.de)"
 ---
 
 > [Source](https://raw.githubusercontent.com/hahnec/marp-recipes/master/marp_recipes.md)
@@ -18,42 +19,45 @@ footer: 'Slides by [Chris](http://www.christopherhahne.de)'
 
 .. with some text below
 
-- a bullet point is initiated by single hyphen `-`
+-   a bullet point is initiated by single hyphen `-`
 <!-- paginate: true -->
-- page numbers on the lower right are globally activated using
-`<!-- paginate: true -->`
+-   page numbers on the lower right are globally activated using
+    `<!-- paginate: true -->`
 
-- page breaks are caused by triple hyphen `---`
+-   page breaks are caused by triple hyphen `---`
 
 ---
 
 ## a sub-heading on the 2nd page
 
 <!-- _paginate: false -->
+
 a leading underscore `_` in directives applies them locally such that
-`<!-- _paginate: false -->` 
+`<!-- _paginate: false -->`
 results in page number suppression on this slide only
 
 ---
+
 ## layout
+
 ### themes
 
-- there are alternative themes such as
-`<!-- theme: gaia -->`
-`<!-- theme: uncover -->`
+-   there are alternative themes such as
+    `<!-- theme: gaia -->`
+    `<!-- theme: uncover -->`
 
-- with classes
-`<!-- class: invert -->` for color theme inversion
-`<!-- class: lead -->` for central alignment in gaia
+-   with classes
+    `<!-- class: invert -->` for color theme inversion
+    `<!-- class: lead -->` for central alignment in gaia
 
-- the aspect ratio of slides is set via 
-`size: 16:9` or `size: 4:3`
+-   the aspect ratio of slides is set via
+    `size: 16:9` or `size: 4:3`
 
 ---
 
 ### header and footer
 
-the global page layout in these slides was set via 
+the global page layout in these slides was set via
 
 ```
 header: '[&#9671;](#1 " ")'
@@ -66,17 +70,20 @@ footer: 'Slides by [Chris](http://www.christopherhahne.de)'
 ## export slides
 
 1. install node.js from https://nodejs.org/en/download/ and verify it was successful
+
 ```
 which node
 node --version
 ```
 
 2. install marp-cli
+
 ```
 npm install --save-dev @marp-team/marp-cli
 ```
 
 3. convert file
+
 ```
 npx @marp-team/marp-cli your.md --pdf
 npx @marp-team/marp-cli your.md --html
@@ -85,27 +92,28 @@ npx @marp-team/marp-cli your.md --pptx
 
 ---
 
-
 ## scientific $\LaTeX$ stuff
 
 inline math delimiters `$` as used in `$\alpha = \arcsin\left({s}\right)$` will render within a sentence as $\alpha = \arcsin\left({s}\right)$. A separated math block employs `$$` delimiters and yields
 
-$$ I_{xx}=\int\int_Ry^2f(x,y)\cdot{}dydx $$
+$$ I\_{xx}=\int\int_Ry^2f(x,y)\cdot{}dydx $$
 
 ---
 
 ## syntax highlighting
 
 JSON
+
 ```json
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+	"firstName": "John",
+	"lastName": "Smith",
+	"age": 25
 }
 ```
 
 Python
+
 ```python
 for x in "banana":
   print(x)
@@ -124,18 +132,20 @@ for x in "banana":
 ```
 
 | Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
+| -------- | :-----------: | ----: |
+| col 1 is | left-aligned  | $1600 |
+| col 2 is |   centered    |   $12 |
 | col 3 is | right-aligned |    $1 |
 
 from https://www.tablesgenerator.com/markdown_tables
 
 ---
+
 <!-- backgroundColor: pink -->
 <!-- color: white -->
 
 ## styles
+
 ### background paint with font color selection
 
 `<!-- backgroundColor: pink -->` selects the background
@@ -170,7 +180,7 @@ with horizontal spacings from as many `&nbsp;` as required
 
 [![video alt text](http://img.youtube.com/vi/jNQXAC9IVRw/0.jpg)](http://www.youtube.com/watch?v=jNQXAC9IVRw?t=35s "resist to click")
 
-videos are linked via 
+videos are linked via
 
 `[![video alt text](img link)](url link "description")`
 
@@ -184,7 +194,7 @@ and require a media player or stable internet connection at the presentation loc
 
 ---
 
-<!-- 
+<!--
 backgroundImage:
 backgroundColor:
 color:
@@ -192,18 +202,17 @@ color:
 
 ### other stylistic markdowns for highlighting include
 
-- `...` from `` `...` `` as surrounded backticks
-- *italic* from `*italic*`
-- **bold** from `**bold**`
-- ~~strikethrough~~ from `~~strikethrough~~`
-- > blockquote from `>`
-- [source link](https://www.website.com) from `[source link](http://www.website.com)`
-- and some fancy emojis :shit: from `:shit:` using words surrounded by colons
+-   `...` from `` `...` `` as surrounded backticks
+-   _italic_ from `*italic*`
+-   **bold** from `**bold**`
+-   ~~strikethrough~~ from `~~strikethrough~~`
+-   > blockquote from `>`
+-   [source link](https://www.website.com) from `[source link](http://www.website.com)`
+-   and some fancy emojis :shit: from `:shit:` using words surrounded by colons
 
 an emoji compilation for markdown is found below
 
 https://gist.github.com/rxaviers/7360908
-
 
 ---
 

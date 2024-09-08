@@ -198,7 +198,7 @@ The true power of ML/DL lies in the fact that
 
 ---
 
-![bg 90%](https://www.neebal.com/hs-fs/hubfs/Generative%20AI%20Applications-Infographic.jpg?width=1920&height=1080&name=Generative%20AI%20Applications-Infographic.jpg)
+![bg 85%](https://appinventiv.com/wp-content/uploads/2023/04/How-Generative-AI-for-Business-is-Shaping-the-Industries_info-2-scaled.webp)
 
 ---
 
