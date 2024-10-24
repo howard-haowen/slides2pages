@@ -588,7 +588,7 @@ The true power of ML/DL lies in the fact that
 
 -   Generated knowledge prompting: Example
 
-![h:430 center](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DQJ8bj0WlEPywSS7wjdLww.png)
+![h:430](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DQJ8bj0WlEPywSS7wjdLww.png)
 [>> source](https://medium.com/the-modern-scientist/prompt-engineering-classification-of-techniques-and-prompt-tuning-6d4247b9b64c)
 
 ---
@@ -609,7 +609,7 @@ The true power of ML/DL lies in the fact that
 
 -   Putting it all together
 
-![h:420 center](https://static.wixstatic.com/media/b45b25_2742fe86a5bd495dadc3de0e77512b6b~mv2.png/v1/fill/w_1480,h_786,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/b45b25_2742fe86a5bd495dadc3de0e77512b6b~mv2.png)
+![h:420](https://static.wixstatic.com/media/b45b25_2742fe86a5bd495dadc3de0e77512b6b~mv2.png/v1/fill/w_1480,h_786,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/b45b25_2742fe86a5bd495dadc3de0e77512b6b~mv2.png)
 [>> source](https://www.tensorops.ai/post/prompt-eng-vs-rag-vs-fine-tuning-what-do-you-need)
 
 ---
