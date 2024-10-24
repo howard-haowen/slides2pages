@@ -68,37 +68,9 @@ jobs:
           preview-branch: gh-pages
           umbrella-dir: pr-preview
 
-      - name: Clean up old previews
-        if: ${{ github.event_name == 'push' }}
-        run: |
-          # Fetch all branches and tags to ensure the checkout is up-to-date
-          git fetch --prune --unshallow
-
-          # Check out the gh-pages branch
-          git checkout gh-pages
-
-          # List all directories in the pr-preview folder
-          previews=$(ls pr-preview)
-
-          # Find the most recent directory (assuming they are timestamped or lexicographically ordered)
-          latest_preview=$(echo "$previews" | sort | tail -n 1)
-
-          # Remove all but the latest preview directory
-          for preview in $previews; do
-            if [[ "$preview" != "$latest_preview" ]]; then
-              echo "Removing old preview: $preview"
-              rm -rf "pr-preview/$preview"
-            fi
-          done
-
-          # Commit and push the changes
-          git commit -am "Clean up old preview folders"
-          git push origin gh-pages
-
       - name: Deploy production
         if: ${{ github.event_name == 'push' }}
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: ./build/
-          clean-exclude: pr-preview/
