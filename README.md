@@ -2,7 +2,7 @@
 theme: gaia
 class:
  - invert
-headingDivider: 2 
+headingDivider: 2
 paginate: true
 -->
 
@@ -26,10 +26,10 @@ This presentation is both a [website](https://alexsci.com/marp-to-pages) and a [
 
 Treat your presentation the same way you treat code.
 
-- Use git to track changes
-- Pull requests to collaborate
-- Deploy automatically
-- See a problem? Open an issue!
+-   Use git to track changes
+-   Pull requests to collaborate
+-   Deploy automatically
+-   See a problem? Open an issue!
 
 ## Setup
 
@@ -61,16 +61,51 @@ Out of the box you should see `README.md` as `/index.html` and `/README.pdf`. Sl
 
 ## Running locally
 
-Locally you'll run commands like:
+-   One-shot conversion without installing `marp-cli`
 
-```
-$ marp README.md -o build/README.pdf
-```
-
-or
-
-```
+```sh
 $ npx @marp-team/marp-cli@latest README.md -o build/README.pdf
+```
+
+---
+
+-   Or, install `marp-cli` in the current directory with `npm`
+
+```sh
+$ npm install --save-dev @marp-team/marp-cli
+```
+
+-   Running the command above creates a `package.json` file in the current directory, like this
+
+```json
+{
+	"devDependencies": {
+		"@marp-team/marp-cli": "^4.0.0"
+	}
+}
+```
+
+---
+
+-   Now the `marp` command is available in the current directory when prefixed by `npx`
+
+```sh
+$ npx marp README.md -o build/README.pdf
+```
+
+-   And here's the output
+
+```sh
+[  INFO ] Converting 1 markdown...
+[  INFO ] README.md => build/README.pdf
+```
+
+---
+
+-   If you already have the `package.json` file in the current directory, simply run this to install packages specified by it.
+
+```sh
+$ npm install
 ```
 
 ## As a workflow step
@@ -98,20 +133,20 @@ You can copy extra files or run further processing steps using other tools.
 
 This is a good time to learn more about Marp. Here's some resources:
 
-- [CommonMark](https://commonmark.org/)
-- [Cheat Sheet](https://commonmark.org/help/)
-- [Themes](https://github.com/marp-team/marp-core/tree/master/themes)
-- [CSS Themes](https://marpit.marp.app/theme-css)
-- [Directives](https://marpit.marp.app/directives)
-- [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
-- [Marp Online Editor](https://demo.marpeditor.com/)
+-   [CommonMark](https://commonmark.org/)
+-   [Cheat Sheet](https://commonmark.org/help/)
+-   [Themes](https://github.com/marp-team/marp-core/tree/master/themes)
+-   [CSS Themes](https://marpit.marp.app/theme-css)
+-   [Directives](https://marpit.marp.app/directives)
+-   [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+-   [Marp Online Editor](https://demo.marpeditor.com/)
 
 ## Example Sites
 
 Known sites using this action are:
 
-- [University of Illinois at Urbana-Champaign's CS 199 Even More Practice](https://cs199emp.netlify.app/) [(code)](https://github.com/harsh183/emp-125)
-- [Exploring agent based models](https://roiarthurb.github.io/Talk-UMMISCO_06-07-2020/) [(code)](https://github.com/RoiArthurB/Talk-UMMISCO_06-07-2020)
+-   [University of Illinois at Urbana-Champaign's CS 199 Even More Practice](https://cs199emp.netlify.app/) [(code)](https://github.com/harsh183/emp-125)
+-   [Exploring agent based models](https://roiarthurb.github.io/Talk-UMMISCO_06-07-2020/) [(code)](https://github.com/RoiArthurB/Talk-UMMISCO_06-07-2020)
 
 Send a [pull request](https://github.com/ralexander-phi/marp-to-pages) to get your site added.
 
@@ -120,11 +155,11 @@ Send a [pull request](https://github.com/ralexander-phi/marp-to-pages) to get yo
 When you are ready to share your presentation, commit or merge to `main` and your content on GitHub Pages will automatically update.
 
 # 🎉
+
 <!--
 _class:
  - lead
  - invert
 -->
+
 ### Hooray!
-
-
