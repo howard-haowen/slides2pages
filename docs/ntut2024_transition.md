@@ -346,7 +346,17 @@ AI Lab
 
 #### Python 相比其他程式語言的優勢
 
-![center](https://www.codeplatoon.org/wp-content/uploads/2020/06/Top-Coding-Jobs-2020.png)
+-   職缺多
+    ![bg right:65% fit](https://images.ctfassets.net/aq13lwl6616q/26wpQmcyB0f81krnGj1urY/62291de400aa8e5bcb671ac110e78a80/1.png?w=655&fm=webp)
+    [source >>](https://zerotomastery.io/blog/best-programming-languages-to-learn/)
+
+---
+
+#### Python 相比其他程式語言的優勢
+
+-   待遇高
+    ![bg right:65% fit](https://images.ctfassets.net/aq13lwl6616q/afdYSZ1UOsogAbd28RLFN/0a807ec771df0cda3b67f25662a911f3/2024_PROGRAMMING_LANGUAGE_SALARY_BREAKDOWN.png?w=655&fm=webp)
+    [source >>](https://zerotomastery.io/blog/best-programming-languages-to-learn/)
 
 ---
 
@@ -451,7 +461,15 @@ AI Lab
 
 #### NLP 的市值
 
-![bg right:70% fit](https://i.imgur.com/1u7PNKL.png)
+![bg right:70% fit](https://artsmart.ai/wp-content/uploads/2024/09/Natural-Language-Processing-Market-1024x621-1.jpg)
+[source >>](https://artsmart.ai/blog/natural-language-processing-nlp-statistics-2024/)
+
+---
+
+#### 生成式 AI 的市值
+
+![bg right:70% fit](https://market.us/wp-content/uploads/2023/10/Global-Generative-AI-Market.jpg)
+[source >>](https://market.us/report/generative-ai-market/)
 
 ---
 
@@ -501,14 +519,6 @@ AI Lab
 
 ---
 
-#### 生成式 AI 帶來了許多重大改變
-
-![bg right:70% fit](https://i.imgur.com/DuUmNoP.png)
-
-[>> source](https://santiagof.medium.com/english-is-the-most-powerful-programing-language-even-for-data-science-introduction-to-prompt-998406a499be)
-
----
-
 #### 利用[cognitiveclass.ai](https://cognitiveclass.ai/courses/python-for-data-science)<br>獲取技術證照
 
 ![](https://fakeimg.pl/800x300/67b8e3/fff/?text=02Badges&font=noto&font_size=100)
@@ -537,6 +547,13 @@ AI Lab
 
 ---
 
+### 學位的<br>投資報酬率(ROI)
+
+![bg fit right:70%](https://www.visualcapitalist.com/wp-content/uploads/2024/10/Which_Degrees_Are_Worth_the_Most_SITE.jpg)
+[source >>](https://www.visualcapitalist.com/which-college-degrees-have-the-greatest-return-on-investment/)
+
+---
+
 ### 進入科技業的步驟
 
 ![bg fit right:70%](https://remotemode.com/wp-content/uploads/2021/07/image_2021_07_14T13_42_20_147Z.png)
@@ -544,7 +561,7 @@ AI Lab
 
 ---
 
-### AI 相關技能與職位
+### AI 相關<br>技能與職位
 
 ![bg fit right:70%](https://datasciencedojo.com/wp-content/uploads/AI-skills.jpg)
 [source >>](https://datasciencedojo.com/blog/ai-skills-ai-jobs/)
@@ -602,6 +619,14 @@ AI Lab
 -   撰寫[部落格](https://howard-haowen.github.io/blog.ai/)文章
 -   開發[應用程式](https://howard-haowen.github.io/projects/)
     ![bg right:55% fit](https://d2ds8yldqp7gxv.cloudfront.net/Blog+Explanatory+Images/project+deliverables+1.webp)
+
+---
+
+<!-- _header: "" -->
+<!-- _footer: "" -->
+<!-- _paginate: false -->
+
+![bg](https://quotefancy.com/media/wallpaper/3840x2160/860347-David-Brin-Quote-The-best-time-to-act-on-this-was-decades-ago-The.jpg)
 
 ---
 
