@@ -11,7 +11,7 @@ paginate: true
 _paginate: false
 header: 擁抱AI來玩抱抱臉
 _header: ""
-footer: 2024-11-13@NUU
+footer: 2024-11-15@NQU
 _footer: ""
 #backgroundImage: url('https://getwallpapers.com/wallpaper/full/8/e/2/573249.jpg')
 ---
@@ -88,7 +88,7 @@ _footer: ""
 
 -   文本資料的價值：多而廣
 
-![bg right:70% fit](https://www.webopedia.com/wp-content/uploads/2024/10/what-is-structured-data-inline_1.webp)
+![bg right:70% fit](https://cdn.letterdrop.co/pictures/b9b40954-1c00-4406-b352-17ca1a919f71.png)
 
 ---
 
