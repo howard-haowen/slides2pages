@@ -56,7 +56,7 @@ jobs:
         if: steps.docs-folder-exists.outputs.has_docs == '0'
         uses: docker://marpteam/marp-cli:latest 
         with:
-          args: -I docs/ -o build/docs/ --pdf
+          args: -I docs/ -o build/docs/ --html
         env:
           MARP_USER: root:root
 
