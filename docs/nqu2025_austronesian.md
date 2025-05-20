@@ -35,11 +35,11 @@ headingDivider: 3
 
 ## 我的學經歷
 
+<!--footer: 1/5 我的學經歷-->
+
 ![bg right](https://habitatbroward.org/wp-content/uploads/2020/01/10-Benefits-Showing-Why-Education-Is-Important-to-Our-Society.jpg)
 
 ## 學歷
-
-<!--footer: 1/5 我的學經歷-->
 
 -   台灣大學碩士、學士
 -   美國萊斯大學博士、碩士
@@ -66,6 +66,8 @@ headingDivider: 3
 
 ## 南島語簡介
 
+<!--footer: 2/5 南島語簡介-->
+
 -   Austronesian
     -   拉丁語: Austro 南
     -   古希臘語: nesos 島
@@ -73,8 +75,6 @@ headingDivider: 3
 ![bg right fit](https://www.gjtaiwan.com/new/wp-content/uploads/2022/07/0010929190.webp)
 
 ## 龜派氣功
-
-<!--footer: 2/5 南島語簡介-->
 
 -   かめはめ波
 -   夏威夷卡美哈梅哈國王
@@ -181,7 +181,7 @@ headingDivider: 3
 
 ## 數字詞
 
-<!--footer: ""-->
+<!--footer: 3/5 數字詞-->
 
 ![bg fit](https://i.imgur.com/YE2kmjE.jpeg)
 
@@ -192,7 +192,6 @@ headingDivider: 3
 
 ## 馬達加斯加馬拉加斯語 vs. 台灣排灣語 1~5
 
-<!--footer: 3/5 數字詞-->
 
 | 數字 | 馬達加斯加馬拉加斯語 | 台灣排灣語 |
 | :--: | :------------------: | :--------: |
@@ -371,11 +370,11 @@ Jiang, Haowen. 2023a. Person systems in Puyuma, an Austronesian language of Taiw
 
 ## 動詞
 
+<!--footer: 5/5 動詞-->
+
 ![bg fit](https://lh5.googleusercontent.com/proxy/07GCgdoZyeAbMVtCmKcSVqsvjXGe5vm6GSF1Ct05WPq-PlyhWFPk4mvPp70cHdqmmBmxIFKJVFvazRpAwzK-QlJWzavYIprH6O5gYaIIj2w_th3E4fV5e453lXfdQMAuLHi_1JQgF7d5qjb7Vx7xBg0-ejXS)
 
 ## 動詞焦點系統
-
-<!--footer: 5/5 動詞-->
 
 ![bg fit](https://research.sinica.edu.tw/wp-content/uploads/2023/07/chang-yung-li-06-scaled.jpg)
 
