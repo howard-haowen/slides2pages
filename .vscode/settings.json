@@ -26,5 +26,6 @@
     "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_green.scss",
     "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_purple.scss",
     "https://raw.githubusercontent.com/favourhong/Awesome-Marp/main/themes/am_red.scss",
-  ]
+  ],
+  "editor.fontFamily": "IBM Plex Sans, Menlo, Monaco, 'Courier New', monospace"
 }
