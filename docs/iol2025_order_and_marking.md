@@ -1,7 +1,7 @@
 ---
 marp: true
 lang: zh-TW
-title: 台灣語奧運國手訓練
+title: 台灣語奧國手訓練
 description: 計算類型學
 theme: graph_paper
 #class: lead
@@ -16,7 +16,7 @@ headingDivider: 2
 #backgroundImage: url('https://i.redd.it/kgizj1xogzs11.png')
 ---
 
-# <!--fit--> 台灣語奧運國手訓練: 計算類型學
+# <!--fit--> [台灣語奧](https://ioltw.github.io/zh)國手訓練: 計算類型學
 
 -   講者：[江豪文](https://bit.ly/4fL1hX0)
 -   日期：2025-03-30
